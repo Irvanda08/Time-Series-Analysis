@@ -1,12 +1,12 @@
-Link Tableau: https://public.tableau.com/app/profile/irvanda.nugroho/viz/Assignment_Timeseries/Dashboard1
-
-Link Slides: https://canva.link/u45dn71iyhn5upz
-
 # Sales Promotion Impact Analysis: Time Series Forecasting with SARIMAX 🛒📈
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Tableau-blue)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20%26%20Demand%20Forecasting-green)
+
+Link Tableau: https://public.tableau.com/app/profile/irvanda.nugroho/viz/Assignment_Timeseries/Dashboard1
+
+Link Slides: https://canva.link/u45dn71iyhn5upz
 
 ---
 
